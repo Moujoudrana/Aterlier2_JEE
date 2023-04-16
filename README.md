@@ -29,7 +29,7 @@ Affichage des 5 premiers patients:
 Affichage des patients qui ne sont pas malade:
 ![image](https://user-images.githubusercontent.com/93864104/232346078-12803504-066b-40d5-aeec-5b7fb3214e2f.png)
 
-Affichage des 4 patients malade:
+Affichage des patients malade:
 ![image](https://user-images.githubusercontent.com/93864104/232346127-f1ee16c0-5656-4111-aa00-6c3ad9e43eea.png)
 
 Affichage des patients non malade et dont le score est inferieur a 60:
