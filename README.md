@@ -17,3 +17,22 @@ Les dépendances que j'ai utilisé sont Spring data JPA, Lombok, Spring web et  
         -H2 est une base de données rapide et légère.
         
 
+Affichage des patients:
+![image](https://user-images.githubusercontent.com/93864104/232345799-b8dd5a2d-d934-434f-9803-38bce245c7c5.png)
+
+Recherche d'un patient:
+![image](https://user-images.githubusercontent.com/93864104/232345906-8bc89669-4e4d-4f9d-9cfe-dd09d4ce5b2a.png)
+
+Affichage des 5 premiers patients:
+![image](https://user-images.githubusercontent.com/93864104/232346025-b92ac75b-971a-48bf-beb4-fbf45171af25.png)
+
+Affichage des patients qui ne sont pas malade:
+![image](https://user-images.githubusercontent.com/93864104/232346078-12803504-066b-40d5-aeec-5b7fb3214e2f.png)
+
+Affichage des 4 patients malade:
+![image](https://user-images.githubusercontent.com/93864104/232346127-f1ee16c0-5656-4111-aa00-6c3ad9e43eea.png)
+
+Affichage des patients non malade et dont le score est inferieur a 60:
+![image](https://user-images.githubusercontent.com/93864104/232346246-64b34cb2-b1de-475f-9e17-577b67373cf7.png)
+
+
